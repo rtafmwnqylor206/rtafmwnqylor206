@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm rtafmwnqylor206
 
-<!--
-**rtafmwnqylor206/rtafmwnqylor206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 🎯 🌍 🏄 A freak in programming languages 🎯 🎯 🌍 🏄
 
-Here are some ideas to get you started:
+## About Me
+🎯 🎤 🎯 🎽 Looking to collaborate on data science 🎯 🎤 🎯 🎽
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🎹 🎣 Exploring the world of web development 🎹 🎣
+
+### Fun Facts
+🥊 🌍 Innovating in the field of artificial intelligence 🥊 🌍
+
+---
+🚣 🎽 🚵 🎾 🎮 Thanks for visiting my profile! 🏓 🏄 🎮 🎬 🏒
